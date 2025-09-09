@@ -27,17 +27,6 @@ This project demonstrates the power of **Compose-only UI**, avoiding traditional
 - Start and reset buttons
 - Timer display updates every second
 
----
-
-## Screenshots
-
-*You can include screenshots here, for example:*
-
-![To-Do List](screenshots/todo.png)
-![Alarm Picker](screenshots/alarm.png)
-![Timer](screenshots/timer.png)
-
----
 
 ## Tech Stack
 
