@@ -55,7 +55,8 @@ This project demonstrates the power of **Compose-only UI**, avoiding traditional
 ```bash
 git clone https://github.com/yourusername/compose-todo-alarm-timer.git
 
-## **Screenshot**
 ```
+## Screenshot
+
 
 ![Screenshot](screenshot.jpg)
