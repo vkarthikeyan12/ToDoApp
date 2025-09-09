@@ -53,7 +53,7 @@ This project demonstrates the power of **Compose-only UI**, avoiding traditional
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/compose-todo-alarm-timer.git
+git clone https://github.com/vkarthikeyan12/ToDoApp.git
 
 ```
 ## Screenshot
